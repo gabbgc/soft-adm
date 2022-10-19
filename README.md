@@ -1,10 +1,10 @@
 # projeto-interdisciplinar
 
-Projeto de uma loja de roupas
+TEMA DO PROJETO:
+Loja de roupas
 
-TEMA DO PROJETO: Loja de roupas
-
-EQUIPE: Helio de Castro Silva Júnior Engenharia de Software UC22200144
+EQUIPE:
+Helio de Castro Silva Júnior Engenharia de Software UC22200144
 
 Guilherme Bemvindo Santana Martins Ciência da computação UC22200275
 
