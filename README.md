@@ -4,7 +4,6 @@ TEMA DO PROJETO:
 Loja de roupas
 
 EQUIPE:
-Helio de Castro Silva Júnior Engenharia de Software UC22200144
 
 Guilherme Bemvindo Santana Martins Ciência da computação UC22200275
 
