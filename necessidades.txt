@@ -1,6 +1,0 @@
-1 - Template: acordos do time scrum
-2 - Template: documento de visão simplificado
-3 - Modelo conceitual do banco de dados
-4 - Diagrama de Entidade Relacionamento, desenvolvido com o software escolhido pela equipe
-5 - Código em C, de uma parte do projeto, a ser definido pela equipe
-6 - Slide da apresentação
