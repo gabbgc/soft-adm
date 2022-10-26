@@ -21,8 +21,8 @@ Loja de roupas
 
 - Guilherme Bemvindo Santana Martins / Ciência da Computação / UC22200275
 
-- Daniel Ribeiro Teles / Ciência da Computação / UC22200356
-
+- Daniel Ribeiro Teles / Ciência da Computação / UC22200356 <div>
+<a href="https://www.linkedin.com/in/daniel-ribeiro-teles-a48846236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - Lucas Sabino Assis / Ciência da Computação / UC22103214  <div> 
   <a href="https://www.linkedin.com/in/lucas-sabino-b38056255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
