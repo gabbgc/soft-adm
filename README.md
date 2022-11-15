@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header&"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b00ff&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDOS+AO+NOSSO+TRABALHO;TEMA:LOJINHA+DE+ROUPAS+%29) ](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b00ff&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDOS+AO+NOSSO+TRABALHO;TEMA:LOJINHA+DE+ROUPAS+:)%29) ](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Lucassabino0454">
@@ -12,7 +12,14 @@
 Linguagens utilizadas:  
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div>
- 
+ Linguagens necessarias:
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ </div>
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"">
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ </div>
+        
+       
  ## INTEGRANTES 👇
 - Guilherme Bemvindo Santana Martins / Ciência da Computação / UC22200275
 
